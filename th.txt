@@ -91,3 +91,6 @@ struct
 keyword class...
 
 
+///practise  --->  
+4 function calculator with return type and arguments add, sub, mul, div
+

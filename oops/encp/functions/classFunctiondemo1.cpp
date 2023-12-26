@@ -18,6 +18,7 @@ class Bank{
 
     void withdraw(int amount);
     int checkBalance();
+    
 
 };
 
