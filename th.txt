@@ -94,3 +94,28 @@ keyword class...
 ///practise  --->  
 4 function calculator with return type and arguments add, sub, mul, div
 
+
+
+constructor: 
+constructor is a special function which has same name as class name
+constructor can not have return type
+const can have arguments
+const is called automatically when object is created
+
+use:
+used to initialize the data members of class [instance variables]
+used to allocate memory to the data members of class [instance variables]
+
+
+in cpp one class must have one constructor
+if developer will not write constructor then compiler will write default constructor
+
+types of constructor:
+1)default constructor
+2)parameterized constructor
+3)copy constructor
+
+
+Bank(){
+
+}
