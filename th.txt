@@ -119,3 +119,30 @@ types of constructor:
 Bank(){
 
 }
+
+INHERITANCE IN CPP 
+1)inheritance is a process of acquiring the properties of one class into another class
+child class can use properties of parent class this is called inheritance
+parent class can not use properties of child class
+
+reusablity of code
+1)single inheritance a --> B
+2)multilevel inheritance a --> b --> c
+3)multiple inheritance a --> b, c
+4)hierarchical inheritance 
+
+                                queen elizabeth
+
+                prince charles                   princess anne
+
+prince william      prince harry            peter phillips     zara phillips                                   
+
+
+5)hybrid inheritance
+combination of multiple and multilevel inheritance
+
+a -> 10 -> 5 
+
+
+
+
