@@ -144,5 +144,21 @@ combination of multiple and multilevel inheritance
 a -> 10 -> 5 
 
 
+polymorphism:
+poly means many morphism means forms
+many forms of a function is called polymorphism
+1)compile time polymorphism / static binding / early binding / 
+    function overloading
+2)run time polymorphism / dynamic binding / late binding / 
+    function overriding
+
+
+
+function overloading:
+same name of function create in same class but with different arguments called function overloading
+
+search(strig name)
+search(string name,int vari)
+search(string name, int vari, string color)
 
 
