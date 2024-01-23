@@ -155,7 +155,8 @@ many forms of a function is called polymorphism
 
 
 function overloading:
-same name of function create in same class but with different arguments called function overloading
+same name of function create in same class but with 
+different arguments called function overloading
 
 search(strig name)
 search(string name,int vari)
