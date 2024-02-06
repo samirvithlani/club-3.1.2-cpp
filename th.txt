@@ -162,4 +162,34 @@ search(strig name)
 search(string name,int vari)
 search(string name, int vari, string color)
 
+RBI -->
+withdraw()
+
+
+HDFC BANK ---> Debit card
+
+HDFCwithdraw()
+withdraw()
+
+SBI  BANK ATM MACHINE --> Debit card*
+sbiwithdraw()
+withdraw()
+
+
+TRAI --> Telecom Regulatory Authority of India
+call()
+
+JIO SIM
+jiocall() --> jiocall()
+call(){
+
+}
+
+AIRTEL SIM
+call(){
+    
+}
+
+
+
 

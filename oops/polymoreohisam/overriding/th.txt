@@ -1,0 +1,17 @@
+//child class will create function with same signature of parent class called overriding,...
+//signature
+//1. function name
+//2. number of arguments
+//3. type of arguments
+//4. order of arguments
+//5. return type
+
+void sum(int a, int b) {
+  print(a + b);
+}
+
+void sum(int a, int b)
+
+
+use of overriding:
+1. to change the functionality of parent class
