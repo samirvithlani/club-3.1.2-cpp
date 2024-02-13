@@ -192,4 +192,5 @@ call(){
 
 
 
-
+//udf --> string ,char
+return ---> "ram" "a" -->
