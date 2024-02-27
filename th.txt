@@ -194,3 +194,26 @@ call(){
 
 //udf --> string ,char
 return ---> "ram" "a" -->
+
+
+
+   // public:
+    // void setId(int id){
+    //     this->id = id;
+    // }
+    // void setName(string name){
+    //     this->name = name;
+    // }
+    // void setMarks(int marks){
+    //     this->marks = marks;
+    // }
+
+    // int getId(){
+    //     return this->id;
+    // }
+    // string getName(){
+    //     return this->name;
+    // }
+    // int getMarks(){
+    //     return this->marks;
+    // }
