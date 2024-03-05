@@ -217,3 +217,21 @@ return ---> "ram" "a" -->
     // int getMarks(){
     //     return this->marks;
     // }
+
+
+
+bulls and cows
+secret no =123  
+
+guess no  = 223 --> 2 bulls and 0 cows
+guess no  = 932 --> 0 bulls and 2 cows
+guess no == 199 --> 1 bulls and 0 cows
+guess no == 193 --> 2 bulls and 0 cows
+guess no == 123 --> 3 bulls and 0 cows
+
+
+
+
+
+
+
