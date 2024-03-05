@@ -23,16 +23,36 @@ char getComputerMove()
 } 
 
 int main() {
-    // Write C++ code here
-    std::cout << "Try programiz.pro";
-    //enter your move...
-    //rock
-    
-    char c1 = getComputerMove();
-    cout<<"\n c1 = "<<c1;
-    
-    
-    
 
+
+    int score = 0;
+    while(true){
+
+        char move;
+        cout<<"\n Enter your move: ";
+        cin>>move;
+
+        cout<<"\n your move is "<<move;
+
+        char c1 = getComputerMove();
+        cout<<"\n computer move is = "<<c1;
+
+        if(move == c1){
+            cout<<"\n Tie";
+        }
+        else if((move == 'r' && c1 == 's') || (move == 's' && c1 == 'p') || (move == 'p' && c1 == 'r')){
+
+            cout<<"\n user wins";
+            score++;
+
+        }
+        else{
+            cout<<"\n computer wins";
+            break;
+            
+        }
+            
+    }
+    cout<<"\n your score is "<<score;
     return 0;
 }
