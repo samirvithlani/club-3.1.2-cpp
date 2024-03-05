@@ -10,6 +10,13 @@ class Shape{
         
     }
 
+    void test(int a,stirng b){
+
+    }
+    void test(stirng a,int b){
+        
+    }
+
 
 };
 
