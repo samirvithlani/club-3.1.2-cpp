@@ -1,0 +1,36 @@
+POPS: proced oriented prog s
+OOPS :object ori prog s
+    cpp,java,python
+
+1)encapsulation : binding code and data into a single unit
+2)abstraction : hiding the implementation details
+3)inheritance : acquiring the properties from parent class to child class
+4)polymorphism : many forms
+    method overloading
+    method overriding
+
+
+
+inheritance:
+child class can use the properties of parent class this process is called inheritance, but parent class 
+can't use the properties of child class
+base class --> parent class
+derived class --> child class
+
+types of inheritance:
+1)single inheritance    a -> b
+2)multiple inheritance  a -> b,c | a,b -> c
+3)multilevel inheritance a -> b -> c
+4)hierarchical inheritance a -> b,c
+                            a
+                   b                c           
+             x          y    p           q
+
+5)hybrid inheritance a -> b,c -> d | a -> b -> c,d
+                    a
+            b               c
+                d
+
+
+use:
+1)code reusability
