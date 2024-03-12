@@ -40,7 +40,7 @@ int main(){
     
     Gujarat g;
     g.display();
-    //g.display1(); // error cz parent class can not use prop of child class....
+    //g.display1(); // error cz parent class can not use prop of child class.... 
 
 
 }

@@ -230,6 +230,19 @@ guess no == 193 --> 2 bulls and 0 cows
 guess no == 123 --> 3 bulls and 0 cows
 
 
+polymorphism : many form of the function..
+1)compile time polymorphism / static binding / early binding / 
+    function overloading
+----------------------------------------------------------------
+
+2)run time polymorphism / dynamic binding / late binding / 
+    function overriding    
+
+run time polymorphism : parent class function created in child class with same signature called function overriding
+
+signature : function name, return type, arguments, access specifiers
+
+
 
 
 
