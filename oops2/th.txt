@@ -63,3 +63,22 @@ zomato
 order(string fname)
 order(string fname,int qty)
 order(int qty,int price)
+
+
+constructor:
+
+def: constructor is a special member function which has same name as class name
+constructor doesn't have return type
+but constructor can have arguments
+
+type of constructor:
+1)default constructor : no arguments
+2)parameterized constructor : with arguments
+3)copy constructor : copy the value of one object to another object
+
+use: to initialize the object,and instance variables of the class
+
+in cpp class must have atleast one constructor
+if programmer doesn't create any constructor then compiler will create default constructor
+
+constructor will be called automatically when object is created
