@@ -34,3 +34,32 @@ types of inheritance:
 
 use:
 1)code reusability
+
+
+polymorphism : many form of the function..
+1)compile time polymorphism / static binding / early binding / 
+    function overloading
+----------------------------------------------------------------
+
+2)run time polymorphism / dynamic binding / late binding / 
+    function overriding    
+
+run time polymorphism : parent class function created in child class with same signature called function overriding
+
+signature : function name, return type, arguments, access specifiers
+
+
+
+overloading:
+1)function overloading : same name of function created in same class but with diff arguments called function overal
+
+search(string pname)
+search(string pname,int model)
+search(int model,string pname)
+search(string pname,int model,string color)
+
+zomato
+
+order(string fname)
+order(string fname,int qty)
+order(int qty,int price)
