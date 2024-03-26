@@ -245,6 +245,13 @@ signature : function name, return type, arguments, access specifiers
 
 
 
+EMPLOYEE id int
+name  string 
+Age int
+salary float
+gender string
+
+
 
 
 

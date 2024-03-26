@@ -35,6 +35,11 @@ int main(){
     // float f [20]//float
     // char c[10]//char
 
+    //use of new keyword is to create dynamic memory allocation
+    //same as malloc in c
+    //same as new in java
+    //as array is static memory allocation
+    //so using new keyword we can create dynamic memory allocation for array of objects here
     Student *stu = new Student[stuCount]; // array of objects
     
 
